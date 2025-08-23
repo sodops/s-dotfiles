@@ -1,2 +1,2 @@
 # s-dotfiles
-My personal dotfiles
+My personal dotfiles for Arch linux - Hyprland
